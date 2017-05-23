@@ -8,3 +8,4 @@ Sources and credit for this work
 * https://github.com/MWGriffin/ansible-playbooks Old
 * https://github.com/fubarhouse/mac-dev-playbook
 * https://gist.github.com/ksylvan/2aacf2b466741a5468b2ea7ab475ee97
+* http://davidcai.github.io/blog/posts/install-multiple-jdk-on-mac/ jEnv multi java version support!
